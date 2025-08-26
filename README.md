@@ -53,7 +53,7 @@
   </a>
 </p>
 </div>
-<h3 align="center">project</h3>
+<h3 align="center">Service</h3>
 <div align="center">
   <a href="https://돌격닭강정.com">
   <img src="https://img.shields.io/badge/돌격닭강정.com-F05032?style=for-the-badge&logo=googlechrome&logoColor=white"/>
